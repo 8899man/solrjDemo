@@ -10,7 +10,7 @@ web-project目录下存放的是工程
 
 ## 项目效果
 
-![image](images/index.png)
+![image](image/index.png)
 
 ## 介绍
 - 十分简单只有一个页面
